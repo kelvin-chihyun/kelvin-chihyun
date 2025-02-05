@@ -40,6 +40,7 @@
 ### TEST
 
 <img src="https://img.shields.io/badge/Cypress-222222?style=for-the-badge&logo=Cypress&logoColor=69D3A7">
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white">
 
 ### DB
 
