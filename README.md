@@ -37,14 +37,8 @@
  <img src="https://img.shields.io/badge/Styled--components-db7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
 
-### TEST
-
-<img src="https://img.shields.io/badge/Cypress-222222?style=for-the-badge&logo=Cypress&logoColor=69D3A7">
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white">
-
 ### DB
 
- <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 
 ### Collaboration
